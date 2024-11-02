@@ -1,7 +1,60 @@
-<nav class="navbar navbar-dark">
-    <div class="container-fluid">
+<nav class="navbar navbar-dark bg-dark">
+    <div class="container-fluid justify-content-center">
+        <!-- Logo and Brand -->
         <a class="navbar-brand" href="/">
             <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Haveno Aloha Logo">
         </a>
+
+        <!-- Navigation Menu -->
+        <ul class="navbar-nav flex-row">
+            <li class="nav-item mx-3">
+                <a class="nav-link active" aria-current="page" href="/">Home</a>
+            </li>
+            <li class="nav-item mx-3">
+                <a class="nav-link" href="/updates">Updates</a>
+            </li>
+            <li class="nav-item mx-3">
+                <a class="nav-link" href="/stats">Stats</a>
+            </li>
+        </ul>
     </div>
 </nav>
+
+<!-- Custom CSS -->
+<style>
+/* Navbar link styles */
+.navbar-dark .nav-link {
+    color: #e0e0e0; /* Light text for dark mode */
+    font-size: 1.1rem; /* Slightly larger font size for better readability */
+    text-decoration: none; /* Remove default underline */
+    padding: 0.5rem 0;
+    position: relative;
+    transition: color 0.3s ease;
+}
+
+/* Green underline for active nav link */
+.navbar-dark .nav-link.active {
+    color: #32CD32; /* Lime green active text color */
+    font-weight: bold; /* Make active link stand out */
+    border-bottom: 2px solid #32CD32; /* Green underline */
+}
+
+/* Hover effect on navbar links */
+.navbar-dark .nav-link:hover {
+    color: #28a745; /* Lighter green on hover */
+    transition: color 0.3s ease, border-bottom 0.3s ease;
+}
+
+/* Optional: Add hover underline to non-active links */
+.navbar-dark .nav-link:hover::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 2px;
+    background-color: #32CD32; /* Same green as active */
+    transition: width 0.3s ease;
+    width: 100%;
+}
+</style>
