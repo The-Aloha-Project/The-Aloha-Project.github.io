@@ -1,0 +1,38 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+.primary-text {
+    color: #32CD32; /* LimeGreen */
+}
+
+.navbar {
+    background-color: #1f1f1f;
+}
+
+.navbar-brand img {
+    height: 40px;
+}
+
+.btn-primary {
+    background-color: #32CD32;
+    border-color: #32CD32;
+}
+
+.btn-primary:hover {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+a {
+    color: #32CD32;
+}
+
+a:hover {
+    color: #28a745;
+}
+
+hr {
+    border-color: #32CD32;
+}
