@@ -3,7 +3,7 @@ layout: default
 title: "Haveno Aloha - Opening Monero to the World"
 ---
 
-# Opening Monero to the World { .text-center.mb-4.primary-text }
+<h1 class="text-center mb-4 primary-text">Opening Monero to the World</h1>
 
 Haveno Aloha is the flagship instance of Haveno, the non-custodial, decentralized exchange platform for crypto and fiat currencies built on Tor and Monero.
 
@@ -11,9 +11,8 @@ Haveno Aloha is the flagship instance of Haveno, the non-custodial, decentralize
     <div class="col-md-6">
         <h3 class="primary-text">What Haveno Aloha is</h3>
         <ul>
-            <li>The first fully functional Haveno instance on mainnet</li>
-            <li>A low arbitration fee network - 0% taker, 0.6% maker</li>
-            <li>A network with zero general fees - fees go exclusively to arbitrators</li>
+            <li>The best fully functional Haveno instance on mainnet</li>
+            <li>A network with zero general fees</li>
             <li>Essentially Bisq 1 adapted for Monero</li>
         </ul>
     </div>
@@ -30,7 +29,7 @@ Haveno Aloha is the flagship instance of Haveno, the non-custodial, decentralize
 
 <hr class="my-5">
 
-## Downloads {.text-center.primary-text}
+<h2 class="text-center primary-text">Downloads</h2>
 
 Current version **v1.0.12**.
 
