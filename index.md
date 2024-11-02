@@ -46,7 +46,7 @@ title: "Haveno Aloha - Opening Monero to the World"
     <!-- Download Section -->
     <h2 class="text-center primary-text">Downloads</h2>
 
-    <div class="text-center">Current version **v1.0.12**</div>
+    <div class="text-center">Current version <strong>v1.0.12</strong></div>
     
     <div class="d-flex flex-column align-items-center mb-4">
         <a href="https://github.com/The-Aloha-Project/haveno-aloha/releases/download/v1.0.0/haveno_1.0.12.AppImage" class="btn btn-primary mb-2">Download for Linux (.AppImage)</a>

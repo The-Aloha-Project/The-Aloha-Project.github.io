@@ -43,3 +43,20 @@ hr {
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);  /* Optional shadow */
     margin-bottom: 2rem;  /* Extra spacing for bottom, if needed */
 }
+
+/* Footer link styles */
+.footer-links a {
+    text-decoration: none;
+    color: #e0e0e0; /* Lighter text for dark mode */
+    transition: color 0.2s ease-in-out;
+}
+
+.footer-links a:hover {
+    color: #32CD32; /* Lime green hover effect to match the theme */
+    text-decoration: underline; /* Optionally add underline on hover */
+}
+
+/* Footer copyright */
+.footer-copyright {
+    font-size: 0.9rem; /* Slightly smaller text for subtle copyright */
+}
