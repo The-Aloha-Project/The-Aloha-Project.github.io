@@ -6,7 +6,7 @@ title: "Haveno Aloha - Opening Monero to the World"
 <!-- Hero Section with Image -->
 <div class="container-fluid p-0 mb-5">
     <!-- The large image will have rounded edges and cover the width -->
-    <img src="/assets/images/best.png" class="img-fluid w-100 rounded hero-image" alt="Haveno Aloha Hero Image">
+    <img src="/assets/images/haveno_graphic.webp" class="img-fluid w-100 rounded hero-image" alt="Haveno Aloha Hero Image">
 </div>
 
 <!-- Main Content -->
