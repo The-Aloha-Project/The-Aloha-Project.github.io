@@ -36,3 +36,10 @@ a:hover {
 hr {
     border-color: #32CD32;
 }
+
+/* Extra custom styles for the hero image */
+.hero-image {
+    border-radius: 20px;  /* Alternatively, adjust the radius if needed */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);  /* Optional shadow */
+    margin-bottom: 2rem;  /* Extra spacing for bottom, if needed */
+}
