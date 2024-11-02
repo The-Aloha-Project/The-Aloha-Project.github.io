@@ -56,4 +56,8 @@ title: "Haveno Aloha - Opening Monero to the World"
     <div class="text-center mt-4">
         <a href="#" class="primary-text">Download Public key</a>
     </div>
+
+    <!-- Divider -->
+    <hr class="my-5">
+
 </div>
