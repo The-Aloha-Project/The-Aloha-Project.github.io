@@ -16,7 +16,7 @@ title: "Haveno Aloha - Opening Monero to the World"
     <h1 class="text-center mb-4 primary-text">Opening Monero to the World</h1>
     
     <p class="text-center lead">
-        Haveno Aloha is the flagship instance of Haveno, the non-custodial, decentralized exchange platform for crypto and fiat currencies built on Tor and Monero.
+        Haveno Aloha (depsit the cheesy AI generated image above) is one of the most robust instance of Haveno, the non-custodial, decentralized exchange platform for crypto and fiat currencies built on Tor and Monero. We don't have much liquidity right now that's why we need you!
     </p>
     
     <!-- What Haveno Aloha is and is not -->
@@ -27,6 +27,7 @@ title: "Haveno Aloha - Opening Monero to the World"
                 <li>The best fully functional Haveno instance on mainnet</li>
                 <li>A network with very low fees 50% lower than others at just 0.3% for the maker.</li>
                 <li>Essentially Bisq 1 adapted for Monero</li>
+                <li>We're only really looking to cover the server costs, we believe privacy is a right.</li>
             </ul>
         </div>
         <div class="col-md-6">
@@ -39,6 +40,8 @@ title: "Haveno Aloha - Opening Monero to the World"
             </ul>
         </div>
     </div>
+
+    <p>Basic design inspired by Reto, credits to those guys</p>
 
     <!-- Divider -->
     <hr class="my-5">
