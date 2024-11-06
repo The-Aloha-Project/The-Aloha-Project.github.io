@@ -16,7 +16,7 @@ title: "Haveno Aloha - Opening Monero to the World"
     <h1 class="text-center mb-4 primary-text">Opening Monero to the World</h1>
     
     <p class="text-center lead">
-        Haveno Aloha (depsit the cheesy AI generated image above) is one of the most robust instance of Haveno, the non-custodial, decentralized exchange platform for crypto and fiat currencies built on Tor and Monero. We don't have much liquidity right now that's why we need you!
+        Haveno Aloha (depsite the cheesy AI generated image above) is one of the most robust instance of Haveno, the non-custodial, decentralized exchange platform for crypto and fiat currencies built on Tor and Monero. We don't have much liquidity right now that's why we need you!
     </p>
     
     <!-- What Haveno Aloha is and is not -->
