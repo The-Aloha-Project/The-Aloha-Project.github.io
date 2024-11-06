@@ -52,7 +52,7 @@ title: "Haveno Aloha - Opening Monero to the World"
     <div class="text-center" style="margin-bottom: 12px">Current version <strong>v1.0.12</strong></div>
     
     <div class="d-flex flex-column align-items-center mb-4">
-        <a href="https://github.com/The-Aloha-Project/haveno-aloha/releases/download/v1.0.0/haveno_1.0.12.AppImage" class="btn btn-primary mb-2">Download for Linux (.AppImage)</a> (only this one is not tested, play with it first)
+        <a href="https://github.com/The-Aloha-Project/haveno-aloha/releases/download/v1.0.0/haveno_1.0.12.AppImage" class="btn btn-primary mb-2">Download Linux AppImage Installer (Testing)</a>
         <a href="https://github.com/The-Aloha-Project/haveno-aloha/releases/download/v1.0.0/haveno-1.0.12-1.x86_64.rpm" class="btn btn-primary mb-2">Download for Linux (.rpm)</a>
     </div>
 
