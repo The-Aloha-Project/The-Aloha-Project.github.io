@@ -62,7 +62,7 @@ title: "Haveno Aloha - Opening Monero to the World"
 
     
     <div class="text-center mt-4">
-        <a href="#" class="primary-text">Download Public key</a>
+        <div class="primary-text">[Download Aloha's Public Key](https://github.com/The-Aloha-Project/haveno-aloha/raw/main/haveno-aloha.com.asc)</div>
     </div>
 
     <!-- Divider -->
