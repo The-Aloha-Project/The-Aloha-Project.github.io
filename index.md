@@ -25,7 +25,7 @@ title: "Haveno Aloha - Opening Monero to the World"
             <h3 class="primary-text">What Haveno Aloha is</h3>
             <ul>
                 <li>The best fully functional Haveno instance on mainnet</li>
-                <li>A network with very low fees 50% lower than others at just 0.3% for the maker.</li>
+                <li>A network with zero fee's yes, ZERO!</li>
                 <li>Essentially Bisq 1 adapted for Monero</li>
                 <li>We're only really looking to cover the server costs, we believe privacy is a right.</li>
             </ul>
