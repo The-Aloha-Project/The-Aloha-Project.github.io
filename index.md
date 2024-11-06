@@ -62,7 +62,11 @@ title: "Haveno Aloha - Opening Monero to the World"
 
     
     <div class="text-center mt-4">
-        <div href="https://haveno-aloha.com/haveno-aloha.com.asc" class="primary-text">Download Aloha's Public Key</div>
+        <a href="https://haveno-aloha.com/haveno-aloha.com.asc" class="primary-text">Download Aloha's Public Key</a>
+    </div>
+
+    <div class="text-center mt-4">
+        <a href="https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fh--vW7ZSkXPeOUpfxlFGgauQmXNFOzGoizak7Ult7cw%3D%40smp15.simplex.im%2FTPQlR82ShmcDKbBxLQSYJdkiMv5sdbBY%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEALc5y55WJeQUhm31QaqqW925Tz4C8YF7PBCTxUMcqP04%253D%26srv%3Doauu4bgijybyhczbnxtlggo6hiubahmeutaqineuyy23aojpih3dajad.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22aKa4PK4eUqrjLQdt3veGYw%3D%3D%22%7D" class="primary-text">Chat with us on Simplex</a>
     </div>
 
     <!-- Divider -->
