@@ -41,8 +41,6 @@ title: "Haveno Aloha - Opening Monero to the World"
         </div>
     </div>
 
-    <p>Basic design inspired by Reto, credits to those guys</p>
-
     <!-- Divider -->
     <hr class="my-5">
     
